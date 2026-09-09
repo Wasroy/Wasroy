@@ -1,7 +1,7 @@
 <img src="banner_github2.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm William, a French and American IT Student 👋🏼:
-📱 currently working on my own [App](https://daudeal.com/)<br>👨🏼‍🎓 studying mathematics and computer science at PSL University Paris-Dauphine <br>👨🏼‍💻 working as a developer for my school since 2025.
+📱 currently working on my own [App](https://daudeal.com/)<br>👨🏼‍🎓 studying entrepreneurship and computer science at X-HEC <br>👨🏼‍💻 working as a developer for my school since 2025.
 
 
 # 💻 Tech Stack:
